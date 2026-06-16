@@ -67,7 +67,7 @@ Working with Azure services for cloud-based data storage and analytics solutions
 ---
 
 ### 🐍 Python
- 
+
 Using Pandas, NumPy, and Matplotlib for data cleaning, analysis, and visualization.
 
 ---
@@ -77,3 +77,8 @@ Using Pandas, NumPy, and Matplotlib for data cleaning, analysis, and visualizati
 ⭐ Analytical and detail-oriented  
 ⭐ Passionate about data storytelling  
 ⭐ Continuously learning and improving  
+
+<!-- 💗 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:f9a8d4&height=120&section=footer"/>
+</p>
