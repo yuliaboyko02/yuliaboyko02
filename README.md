@@ -75,12 +75,6 @@ Using Pandas, NumPy, and Matplotlib for data cleaning, analysis, and visualizati
 
 ## 🌱 About Me
 
-💙 Analytical and detail-oriented  
-💗 Passionate about data storytelling  
-💙 Continuously learning and improving  
-
----
-
-⭐ *Explore my repositories to see my work!*
-
-
+⭐ Analytical and detail-oriented  
+⭐ Passionate about data storytelling  
+⭐ Continuously learning and improving  
