@@ -1,3 +1,9 @@
+<!-- 💗 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:f9a8d4&height=200&section=header&text=Yulia%20Boyko&fontSize=40&fontColor=ffffff"/>
+</p>
+
+
 ## Hi there, I'm Yulia! 👋
 
 
