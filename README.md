@@ -12,15 +12,6 @@ I’m passionate about analyzing data, building dashboards, and helping business
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuliaboyko02&show_icons=true&theme=rose_pine"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuliaboyko02&layout=compact&theme=rose_pine"/>
-</p>
-
----
-
 ## 🔧 Tools & Technologies
 
 <p align="center">
